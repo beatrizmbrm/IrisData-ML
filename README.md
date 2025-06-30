@@ -44,7 +44,7 @@ This repository contains an exploratory and predictive modeling analysis using t
 
 ## Conclusion
 
-The pipeline successfully identified the top-performing model based on average F1-score. Statistical testing confirmed whether its advantage over others was significant. Results showed that [insert best-performing model] consistently outperformed competing classifiers.
+The pipeline successfully identified the top-performing model based on average F1-score. Statistical testing confirmed whether its advantage over others was significant. Results showed that Decision Tree (f1 =0.9082,	acc=0.9083,	precision=0.9263 and recall=0.9083) consistently outperformed competing classifiers.
 
 ## Author
 
