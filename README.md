@@ -5,7 +5,7 @@ This repository contains an exploratory and predictive modeling analysis using t
 ## Project Structure
 
 - `iris.data` — Original dataset (without headers)
-- `notebook.ipynb` — Full notebook: preprocessing, visualization, modeling, evaluation
+- `IrisData.ipynb` — Full notebook: preprocessing, visualization, modeling, evaluation
 - `README.md` — This file
 
 ## Project Steps
